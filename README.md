@@ -29,7 +29,8 @@ Step 3: Open the Project in Xcode
 ![Simulator Screenshot - iPhone 16 Pro - 2025-02-04 at 21 04 11](https://github.com/user-attachments/assets/58118be0-e130-44a4-bfd2-5dce364e421a)
 
 3] Display of Search Result Card:
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-04 at 21 24 03](https://github.com/user-attachments/assets/052b6f42-0ce9-4b6c-bd59-b7ba3b1b6484)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-04 at 21 25 32](https://github.com/user-attachments/assets/995cb3ce-abde-48dc-8762-64a2b0c93c10)
+
 
 4] Full Page Display of Weather after selecting Search Result Card:
 ![Simulator Screenshot - iPhone 16 Pro - 2025-02-04 at 18 57 32](https://github.com/user-attachments/assets/743862ff-23ef-444c-8de5-c2859c9ab6a3)
