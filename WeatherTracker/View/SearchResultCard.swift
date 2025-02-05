@@ -20,7 +20,7 @@ struct SearchCard: View {
                     Text(weather.location.name)
                         .font(.system(size: 25, weight: .bold))
                     
-                    Text("\(Int(weather.current.temp_c))°C")
+                    Text("\(Int(weather.current.temp_c))°")
                         .font(.system(size: 60, weight: .bold))
                 }
                 AsyncImage(url: URL(string: "https:\(weather.current.condition.icon)")) { image in
